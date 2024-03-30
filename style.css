@@ -1,0 +1,64 @@
+html {
+    background-color: hsl(30, 54%, 90%);
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+h3 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.4rem !important;
+    font-weight: 600 !important;
+    color: hsl(332, 51%, 32%) !important;
+
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    color: #64605D;
+}
+
+li {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    color: #64605D;
+}
+
+.li-title {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
+.li-title-2 {
+    color: hsl(332, 51%, 32%);
+    font-weight: 600;
+}
+
+h2 {
+    color: hsl(14, 45%, 36%) !important;
+}
+
+#main-container {
+    background-color: hsl(0, 0%, 100%);
+    width: 40vw;
+    max-height: 90vh;
+    overflow-y: auto;
+    border-radius: 20px;
+}
+
+#main-image {
+    border-radius: 10px;
+}
+
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#preparation-time-div {
+    background-color: #fff7fc;
+    border-radius: 10px;
+}
